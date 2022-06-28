@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/anshimathur0325/anshimathur0325.github.io.git/static/css/main.671c57aa.css",
-    "main.js": "/anshimathur0325/anshimathur0325.github.io.git/static/js/main.f45df597.js",
-    "static/media/unnamed.jpg": "/anshimathur0325/anshimathur0325.github.io.git/static/media/unnamed.12862d75084e6d5ed00a.jpg",
-    "static/media/news.png": "/anshimathur0325/anshimathur0325.github.io.git/static/media/news.51439179fb611dbbc400.png",
-    "static/media/shelter.png": "/anshimathur0325/anshimathur0325.github.io.git/static/media/shelter.0ae0fda60971cc0e12a4.png",
-    "static/media/fake.png": "/anshimathur0325/anshimathur0325.github.io.git/static/media/fake.8e617936ab1f7320886e.png",
-    "static/media/todo.png": "/anshimathur0325/anshimathur0325.github.io.git/static/media/todo.5bff4a5396a3b8a42ced.png",
-    "static/media/cv.pdf": "/anshimathur0325/anshimathur0325.github.io.git/static/media/cv.534512ab3d17c3cad6ba.pdf",
-    "static/media/math.png": "/anshimathur0325/anshimathur0325.github.io.git/static/media/math.dda088e8d9f35030227c.png",
-    "static/media/bookstore.png": "/anshimathur0325/anshimathur0325.github.io.git/static/media/bookstore.9ccca64e16bf562c3108.png",
-    "index.html": "/anshimathur0325/anshimathur0325.github.io.git/index.html",
-    "main.671c57aa.css.map": "/anshimathur0325/anshimathur0325.github.io.git/static/css/main.671c57aa.css.map",
-    "main.f45df597.js.map": "/anshimathur0325/anshimathur0325.github.io.git/static/js/main.f45df597.js.map"
+    "main.css": "/portfolio---react/static/css/main.671c57aa.css",
+    "main.js": "/portfolio---react/static/js/main.2d8a651f.js",
+    "static/media/unnamed.jpg": "/portfolio---react/static/media/unnamed.12862d75084e6d5ed00a.jpg",
+    "static/media/news.png": "/portfolio---react/static/media/news.51439179fb611dbbc400.png",
+    "static/media/shelter.png": "/portfolio---react/static/media/shelter.0ae0fda60971cc0e12a4.png",
+    "static/media/fake.png": "/portfolio---react/static/media/fake.8e617936ab1f7320886e.png",
+    "static/media/todo.png": "/portfolio---react/static/media/todo.5bff4a5396a3b8a42ced.png",
+    "static/media/cv.pdf": "/portfolio---react/static/media/cv.534512ab3d17c3cad6ba.pdf",
+    "static/media/math.png": "/portfolio---react/static/media/math.dda088e8d9f35030227c.png",
+    "static/media/bookstore.png": "/portfolio---react/static/media/bookstore.9ccca64e16bf562c3108.png",
+    "index.html": "/portfolio---react/index.html",
+    "main.671c57aa.css.map": "/portfolio---react/static/css/main.671c57aa.css.map",
+    "main.2d8a651f.js.map": "/portfolio---react/static/js/main.2d8a651f.js.map"
   },
   "entrypoints": [
     "static/css/main.671c57aa.css",
-    "static/js/main.f45df597.js"
+    "static/js/main.2d8a651f.js"
   ]
 }
