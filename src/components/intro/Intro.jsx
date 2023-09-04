@@ -20,7 +20,7 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Education</h5>
-              <small>Incoming Senior in High School</small>
+              <small>Statistics and Computer Science Student at UIUC.</small>
             </article>
             <article className="about__card">
               <FaAward className='about__icon'/>
